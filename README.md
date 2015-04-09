@@ -77,7 +77,9 @@ Par [Adrien Brault](https://github.com/adrienbrault) disponible sur SpeakerDeck 
 
 ### Docker dans le développement web et l'intégration continue 
 
-Par [Jérémy Derussé](https://github.com/jderusse)
+Par [Jérémy Derussé](https://github.com/jderusse) disponible sur Slides :
+
+[http://slides.com/jeremyderusse/docker-dev/](http://slides.com/jeremyderusse/docker-dev#/)
 
 ### Une API et une admin en moins de 10 minutes ? Challenge accepted! 
 
