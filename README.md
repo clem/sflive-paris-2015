@@ -23,7 +23,7 @@ Par [David Buchmann](https://github.com/dbu) et [Jérôme Vieilledent](https://g
 
 ### Laisse pas traîner ton log ! 
 
-Par [Olivier Dolbeau](https://twitter.com/odolbeau) disponible sur SpeakerDeck :
+Par [Olivier Dolbeau](https://github.com/odolbeau) disponible sur SpeakerDeck :
 
 [https://speakerdeck.com/odolbeau/logs-hunting](https://speakerdeck.com/odolbeau/logs-hunting)
 
@@ -33,7 +33,7 @@ Par [Bastien Jaillot](https://github.com/bastnic) et [Etienne Samson](https://gi
 
 ### Symfony et Sonata Project chez Canal+ 
 
-Par [Thomas Rabaix](https://twitter.com/th0masr)
+Par [Thomas Rabaix](https://github.com/rande)
 
 ### ElasticSearch dans une infrastructure Symfony2 
 
@@ -53,7 +53,7 @@ Par [Joris Calabrese](https://github.com/lks) disponible sur SlideShare :
 
 ### Faites plaisir à vos utilisateurs : surveillez votre prod 
 
-Par [Grégoire Pineau](https://twitter.com/lyrixx) disponible sur SpeakerDeck :
+Par [Grégoire Pineau](https://github.com/lyrixx) disponible sur SpeakerDeck :
 
 [https://speakerdeck.com/lyrixx/symfony-live-2015-paris-monitorer-sa-prod](https://speakerdeck.com/lyrixx/symfony-live-2015-paris-monitorer-sa-prod)
 
