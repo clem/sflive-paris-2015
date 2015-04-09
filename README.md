@@ -65,9 +65,9 @@ Par [Nicolas Grekas](https://github.com/nicolas-grekas) disponible sur SlideShar
 
 ### Construire des applications API-centric avec Symfony 
 
-Par [Kévin Dunglas](https://github.com/dunglas)
+Par [Kévin Dunglas](https://github.com/dunglas) disponible sur son site :
 
-Slides en rapport : [http://dunglas.fr/2015/01/slides-a-propos-des-linked-data-et-des-api-rest-hypermedia-avec-symfony/](http://dunglas.fr/2015/01/slides-a-propos-des-linked-data-et-des-api-rest-hypermedia-avec-symfony/)
+[http://dunglas.fr/slides/sf-live-2015](http://dunglas.fr/slides/sf-live-2015)
 
 ### Le DIC, ce chef d'orchestre! 
 
