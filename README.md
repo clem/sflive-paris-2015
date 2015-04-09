@@ -71,7 +71,9 @@ Slides en rapport : [http://dunglas.fr/2015/01/slides-a-propos-des-linked-data-e
 
 ### Le DIC, ce chef d'orchestre! 
 
-Par [Adrien Brault](https://github.com/adrienbrault)
+Par [Adrien Brault](https://github.com/adrienbrault) disponible sur SpeakerDeck :
+
+[https://speakerdeck.com/adrienbrault/le-dic-ce-chef-dorchestre](https://speakerdeck.com/adrienbrault/le-dic-ce-chef-dorchestre)
 
 ### Docker dans le développement web et l'intégration continue 
 
