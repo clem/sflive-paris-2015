@@ -83,7 +83,9 @@ Par [Jérémy Derussé](https://github.com/jderusse) disponible sur Slides :
 
 ### Une API et une admin en moins de 10 minutes ? Challenge accepted! 
 
-Par [Jonathan Petitcolas](https://github.com/jpetitcolas)
+Par [Jonathan Petitcolas](https://github.com/jpetitcolas) 
+
+Tutoriel disponible : [http://marmelab.com/blog/2015/02/24/ngadmingeneratorbundle-create-javascript-admin-panel-rest-api-symfony2-in-minutes.html](http://marmelab.com/blog/2015/02/24/ngadmingeneratorbundle-create-javascript-admin-panel-rest-api-symfony2-in-minutes.html)
 
 ### Retour d'expérience sur l'édition d'un "Enterprise Software" basé sur Symfony 
 
