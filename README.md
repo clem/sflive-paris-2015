@@ -107,3 +107,7 @@ Par ordre alphabétique
 Par [Vanessa David](https://github.com/vanessakovalsky) disponible sur SlideShare :
 
 [http://www.slideshare.net/VanessaDavid4/symfony-live-2015d8v3](http://www.slideshare.net/VanessaDavid4/symfony-live-2015d8v3)
+
+## Les autres récapitulatifs
+
+A noter, [Rémi Barbe](https://github.com/Remiii) a aussi fait [un récapitulatif sur son blog](http://remibarbe.fr/blog/2015/04/09/symfony-live-2015-mes-notes/).
