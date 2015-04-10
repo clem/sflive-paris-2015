@@ -31,6 +31,8 @@ Par [Olivier Dolbeau](https://github.com/odolbeau) disponible sur SpeakerDeck :
 
 Par [Bastien Jaillot](https://github.com/bastnic) et [Etienne Samson](https://github.com/etiennesamson)
 
+[http://fr.slideshare.net/ajaccessible/attention-chrie-a-va-couper](http://fr.slideshare.net/ajaccessible/attention-chrie-a-va-couper)
+
 Slide sur la dette technique traitant du sujet: [http://jolicode.github.io/phptour-2014--dette-technique--conf/?full](http://jolicode.github.io/phptour-2014--dette-technique--conf/?full)
 
 ### Symfony et Sonata Project chez Canal+ 
