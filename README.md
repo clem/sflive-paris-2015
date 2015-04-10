@@ -67,7 +67,7 @@ Par [Nicolas Grekas](https://github.com/nicolas-grekas) disponible sur SlideShar
 
 Par [Kévin Dunglas](https://github.com/dunglas) disponible sur son site :
 
-[http://dunglas.fr/slides/sf-live-2015](http://dunglas.fr/slides/sf-live-2015)
+[http://dunglas.fr/slides/sf-live-2015/#/](http://dunglas.fr/slides/sf-live-2015/#/)
 
 ### Le DIC, ce chef d'orchestre! 
 
