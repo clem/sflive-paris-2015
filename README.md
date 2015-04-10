@@ -33,6 +33,10 @@ Par [Bastien Jaillot](https://github.com/bastnic) et [Etienne Samson](https://gi
 
 [http://fr.slideshare.net/ajaccessible/attention-chrie-a-va-couper](http://fr.slideshare.net/ajaccessible/attention-chrie-a-va-couper)
 
+[http://fr.slideshare.net/ajaccessible/attention-chrie-a-va-couper](http://fr.slideshare.net/ajaccessible/attention-chrie-a-va-couper)
+
+Slide sur la dette technique traitant du sujet: [http://jolicode.github.io/phptour-2014--dette-technique--conf/?full](http://jolicode.github.io/phptour-2014--dette-technique--conf/?full)
+
 ### Symfony et Sonata Project chez Canal+ 
 
 Par [Thomas Rabaix](https://github.com/rande)
