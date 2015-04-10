@@ -122,4 +122,5 @@ Par [Nicolas Thal](https://github.com/nicolasThal) disponible sur Slides :
 
 ## Les autres récapitulatifs
 
-A noter, [Rémi Barbe](https://github.com/Remiii) a aussi fait [un récapitulatif sur son blog](http://remibarbe.fr/blog/2015/04/09/symfony-live-2015-mes-notes/).
+- Celui de [Rémi Barbe](https://github.com/Remiii) : [un récapitulatif sur son blog](http://remibarbe.fr/blog/2015/04/09/symfony-live-2015-mes-notes/)
+- Celui de [Thierry Thuon](https://github.com/lepiaf) pour Eleven Labs : [http://blog.eleven-labs.com/symfony-live-10-ans-deja/](http://blog.eleven-labs.com/symfony-live-10-ans-deja/)
