@@ -29,7 +29,9 @@ Par [Olivier Dolbeau](https://github.com/odolbeau) disponible sur SpeakerDeck :
 
 ### Retour d’expérience : attention chérie, ça va trancher 
 
-Par [Bastien Jaillot](https://github.com/bastnic) et [Etienne Samson](https://github.com/etiennesamson)
+Par [Bastien Jaillot](https://github.com/bastnic) et [Etienne Samson](https://github.com/etiennesamson) disponible sur SlideShare :
+
+[http://fr.slideshare.net/ajaccessible/attention-chrie-a-va-couper](http://fr.slideshare.net/ajaccessible/attention-chrie-a-va-couper)
 
 ### Symfony et Sonata Project chez Canal+ 
 
