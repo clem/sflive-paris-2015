@@ -21,6 +21,8 @@ Par [Arnaud Langlade](https://github.com/aRn0D)
 
 Par [David Buchmann](https://github.com/dbu) et [Jérôme Vieilledent](https://github.com/lolautruche)
 
+[http://lolautruche.github.io/ez/going-crazy-with-caching.html#/](http://lolautruche.github.io/ez/going-crazy-with-caching.html#/)
+
 ### Laisse pas traîner ton log ! 
 
 Par [Olivier Dolbeau](https://github.com/odolbeau) disponible sur SpeakerDeck :
