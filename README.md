@@ -110,6 +110,12 @@ Par [Vanessa David](https://github.com/vanessakovalsky) disponible sur SlideShar
 
 [http://www.slideshare.net/VanessaDavid4/symfony-live-2015d8v3](http://www.slideshare.net/VanessaDavid4/symfony-live-2015d8v3)
 
+### OpenOrchestra - Du legacy à l'état de l'art
+
+Par [Nicolas Thal](https://github.com/nicolasThal) disponible sur Slides :
+
+[http://slides.com/nicolasthal/openorchestra#/](http://slides.com/nicolasthal/openorchestra#/)
+
 ## Les autres récapitulatifs
 
 A noter, [Rémi Barbe](https://github.com/Remiii) a aussi fait [un récapitulatif sur son blog](http://remibarbe.fr/blog/2015/04/09/symfony-live-2015-mes-notes/).
