@@ -15,7 +15,9 @@ Puisque Fabien a fait un "one-man show" en "totale impro" ^^
 
 ### Développer avec le SyliusResourceBundle
 
-Par [Arnaud Langlade](https://github.com/aRn0D)
+Par [Arnaud Langlade](https://github.com/aRn0D) disponible sur SlideShare : 
+
+[http://www.slideshare.net/ArnaudLanglade/dvelopper-avec-le-sylius-resourcebundle](http://www.slideshare.net/ArnaudLanglade/dvelopper-avec-le-sylius-resourcebundle)
 
 ### Repousser les limites : HTTP cache et utilisateurs connectés 
 
