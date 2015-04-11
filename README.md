@@ -41,7 +41,9 @@ Slide sur la dette technique traitant du sujet: [http://jolicode.github.io/phpto
 
 ### Symfony et Sonata Project chez Canal+ 
 
-Par [Thomas Rabaix](https://github.com/rande)
+Par [Thomas Rabaix](https://github.com/rande) disponible sur SlideShare :
+
+[https://slideshare.net/3k1n0/thomas-rabaix-symfonylivecanal](https://slideshare.net/3k1n0/thomas-rabaix-symfonylivecanal)
 
 ### ElasticSearch dans une infrastructure Symfony2 
 
