@@ -47,7 +47,9 @@ Par [Thomas Rabaix](https://github.com/rande) disponible sur SlideShare :
 
 ### ElasticSearch dans une infrastructure Symfony2 
 
-Par [Nicolas Badey](https://github.com/nicolasbadey)
+Par [Nicolas Badey](https://github.com/nicolasbadey) disponible sur SpeakerDeck : 
+
+[https://speakerdeck.com/nicolasbadey/elasticsearch-with-elastica-in-symfony2-architecture](https://speakerdeck.com/nicolasbadey/elasticsearch-with-elastica-in-symfony2-architecture)
 
 ### OpenClassrooms - Le pattern View Model avec Symfony2 
 
