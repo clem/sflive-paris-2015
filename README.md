@@ -103,6 +103,9 @@ Par [Manuel Raynaud](https://github.com/lunika)
 
 ### BackBee - The NextGen Content Manager 
 
+Disponible sur SpeakerDeck:
+[https://speakerdeck.com/mickaelandrieu/backbee-the-next-gen-content-manager-symfonylive-2015](https://speakerdeck.com/mickaelandrieu/backbee-the-next-gen-content-manager-symfonylive-2015)
+
 Par [Mickaël Andrieu](https://github.com/mickaelandrieu) et [Charles Rouillon](https://github.com/crouillon)
 
 
