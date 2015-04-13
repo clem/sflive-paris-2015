@@ -136,3 +136,4 @@ Par [Nicolas Thal](https://github.com/nicolasThal) disponible sur Slides :
 - Celui de [Rémi Barbe](https://github.com/Remiii) : [un récapitulatif sur son blog](http://remibarbe.fr/blog/2015/04/09/symfony-live-2015-mes-notes/)
 - Celui de [Thierry Thuon](https://github.com/lepiaf) pour Eleven Labs : [http://blog.eleven-labs.com/symfony-live-10-ans-deja/](http://blog.eleven-labs.com/symfony-live-10-ans-deja/)
 - Celui de [Richard Hanna](https://github.com/supertanuki) pour Elao : [http://www.elao.com/fr/blog/symfony-live-2015](http://www.elao.com/fr/blog/symfony-live-2015)
+- Celui de [Loïck Piera](https://github.com/pyrech) pour JoliCode : [http://jolicode.com/blog/symfony-live-2015](http://jolicode.com/blog/symfony-live-2015)
