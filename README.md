@@ -15,13 +15,17 @@ Puisque Fabien a fait un "one-man show" en "totale impro" ^^
 
 ### Développer avec le SyliusResourceBundle
 
-Par [Arnaud Langlade](https://github.com/aRn0D)
+Par [Arnaud Langlade](https://github.com/aRn0D) disponible sur SlideShare : 
+
+[http://www.slideshare.net/ArnaudLanglade/dvelopper-avec-le-sylius-resourcebundle](http://www.slideshare.net/ArnaudLanglade/dvelopper-avec-le-sylius-resourcebundle)
 
 [Vidéo de la présentation](https://www.youtube.com/watch?v=O8jzsNVFQHg)
 
 ### Repousser les limites : HTTP cache et utilisateurs connectés 
 
 Par [David Buchmann](https://github.com/dbu) et [Jérôme Vieilledent](https://github.com/lolautruche)
+
+[http://lolautruche.github.io/ez/going-crazy-with-caching.html#/](http://lolautruche.github.io/ez/going-crazy-with-caching.html#/)
 
 ### Laisse pas traîner ton log ! 
 
@@ -39,11 +43,15 @@ Slide sur la dette technique traitant du sujet: [http://jolicode.github.io/phpto
 
 ### Symfony et Sonata Project chez Canal+ 
 
-Par [Thomas Rabaix](https://github.com/rande)
+Par [Thomas Rabaix](https://github.com/rande) disponible sur SlideShare :
+
+[https://slideshare.net/3k1n0/thomas-rabaix-symfonylivecanal](https://slideshare.net/3k1n0/thomas-rabaix-symfonylivecanal)
 
 ### ElasticSearch dans une infrastructure Symfony2 
 
-Par [Nicolas Badey](https://github.com/nicolasbadey)
+Par [Nicolas Badey](https://github.com/nicolasbadey) disponible sur SpeakerDeck : 
+
+[https://speakerdeck.com/nicolasbadey/elasticsearch-with-elastica-in-symfony2-architecture](https://speakerdeck.com/nicolasbadey/elasticsearch-with-elastica-in-symfony2-architecture)
 
 ### OpenClassrooms - Le pattern View Model avec Symfony2 
 
@@ -103,6 +111,9 @@ Par [Manuel Raynaud](https://github.com/lunika)
 
 ### BackBee - The NextGen Content Manager 
 
+Disponible sur SpeakerDeck:
+[https://speakerdeck.com/mickaelandrieu/backbee-the-next-gen-content-manager-symfonylive-2015](https://speakerdeck.com/mickaelandrieu/backbee-the-next-gen-content-manager-symfonylive-2015)
+
 Par [Mickaël Andrieu](https://github.com/mickaelandrieu) et [Charles Rouillon](https://github.com/crouillon)
 
 
@@ -126,3 +137,5 @@ Par [Nicolas Thal](https://github.com/nicolasThal) disponible sur Slides :
 
 - Celui de [Rémi Barbe](https://github.com/Remiii) : [un récapitulatif sur son blog](http://remibarbe.fr/blog/2015/04/09/symfony-live-2015-mes-notes/)
 - Celui de [Thierry Thuon](https://github.com/lepiaf) pour Eleven Labs : [http://blog.eleven-labs.com/symfony-live-10-ans-deja/](http://blog.eleven-labs.com/symfony-live-10-ans-deja/)
+- Celui de [Richard Hanna](https://github.com/supertanuki) pour Elao : [http://www.elao.com/fr/blog/symfony-live-2015](http://www.elao.com/fr/blog/symfony-live-2015)
+- Celui de [Loïck Piera](https://github.com/pyrech) pour JoliCode : [http://jolicode.com/blog/symfony-live-2015](http://jolicode.com/blog/symfony-live-2015)
