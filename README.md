@@ -17,6 +17,8 @@ Puisque Fabien a fait un "one-man show" en "totale impro" ^^
 
 Par [Arnaud Langlade](https://github.com/aRn0D)
 
+[Vidéo de la présentation](https://www.youtube.com/watch?v=O8jzsNVFQHg)
+
 ### Repousser les limites : HTTP cache et utilisateurs connectés 
 
 Par [David Buchmann](https://github.com/dbu) et [Jérôme Vieilledent](https://github.com/lolautruche)
